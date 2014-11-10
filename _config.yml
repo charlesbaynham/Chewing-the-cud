@@ -1,30 +1,29 @@
-title:            HMFAYSAL V2
-tagline:          Life without Pants!
-description:      An awesome Jekyll theme by Engineer Hossain Mohd Faysal featuring a slide out drawer navigation for mobile browsers.
+title:            Chewing the Cud
+tagline:          "DIY Soylent in the UK"
+description:      "A log of one man and his long-suffering girlfriend's experiences with making DIY soylent in the UK"
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://v2.theevilgenius.tk
+#url:              http://v2.theevilgenius.tk
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+#  name:           Charles Baynham
   avatar:         bio-photo.jpg
-  bio:            "Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that’s related to math, from math itself to programming languages to music to physics to engineering to philosophy."
-  email:          hmfaysal@gmail.com
+  bio:            "Charles was captivated by the idea of Soylent and, when international orders were cancelled, decided to make his own and blog about it on the internet. When Charles is not putting strange substances into his body, he spends his days shining lasers at atoms, soldering things that have impedances and wondering why it doesn't work."
+#  email:          hmfaysal@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
+  twitter:        charlesbaynham
+  facebook:       charlesbaynham90
+  github:         charlesbaynham
   linkedin:       
   instagram:      
   lastfm:         
   tumblr:         
-  hmfaysalsocial: hmfaysal
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-4
+google_analytics:   
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
@@ -36,20 +35,14 @@ links:
     url: /
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Setup
-    url: /theme-setup/
-  - title: T-Details
-    url: /technical-details/
-  - title: The Evil-Genius
-    url: http://www.theevilgenius.tk/
-    external: true
+  # - title: The Evil-Genius
+  #   url: http://www.theevilgenius.tk/
+  #   external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
-pygments:    true
+highlighter:    pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks

@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "A log of one man and his long-suffering girlfriend's experiences with making DIY soylent in the UK."
+tags: [soylent, DIY, food, nutrition, meal-replacement]
 image:
   feature: texture-feature-01.jpg
   credit: Texture Lovers

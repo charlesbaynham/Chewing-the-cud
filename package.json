@@ -1,13 +1,13 @@
 {
-  "name": "minimal-mistakes-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/minima-mistakes/",
+  "name": "ChewingTheCud-blog",
+  "author": "Charles Baynham <charles.baynham@gmail.com>",
+  "homepage": "http://charlesbaynham.github.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/charlesbaynham/Jekyll-HMFAYSAL-V2-Theme.git"
   },
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/charlesbaynham/Jekyll-HMFAYSAL-V2-Theme/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
