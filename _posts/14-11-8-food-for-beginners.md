@@ -10,7 +10,6 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-## The inspiration
 
 In September last year (2014) I came across a startup with a bold vision for changing the world's food: Soylent. They promised a food that was nutritionally complete, cheap and very easy to prepare. In case you haven't heard about Soylent before, they're founded by a young, hungry Silicon Valleyite called _Rob Rhinehart_ who decided that it was about time food got a good optimising. He took the approach of any good engineer and came up with a list of requirements that the body needs through research and testing on himself. 
 
