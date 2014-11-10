@@ -4,6 +4,7 @@ title: Food for beginners
 tagline: A look at Soylent from the UK
 modified: 2014-11-10
 tags: [soylent, beginning, diy, recipe]
+permalink: /food-for-beginners
 image:
   feature: texture-feature-05.jpg
   credit: Texture Lovers
